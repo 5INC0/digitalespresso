@@ -1,0 +1,52 @@
+header {
+    background-color: #F1EDE2;
+}
+
+.navbar-color {
+    background-color: #F1EDE2;
+}
+
+.reg-txt {
+    color: #F1EDE2;
+}
+
+.lg-txt {
+    font-size: 80px;
+}
+
+.txt {
+    color: #3E371D;
+}
+
+.button {
+    color: white;
+    background-color: #3E371D;
+}
+
+.button-2 {
+    color: #3E371D;
+    background-color: #F1EDE2;
+}
+
+.body-bg-color {
+    background-color: #3E371D;
+}
+
+.jumbotron-img {
+    filter: blur(3px);
+    background-image: url(./assets/beans.jpg);
+    background-size: cover;
+    height: 100%;
+    
+}
+
+.blur-filter {
+    filter: blur(3px);
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    text-align: center;
+}
